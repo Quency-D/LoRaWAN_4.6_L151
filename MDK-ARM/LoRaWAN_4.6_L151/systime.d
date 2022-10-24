@@ -1,0 +1,9 @@
+lorawan_4.6_l151\systime.o: ..\Middlewares\Third_Party\LoRaWAN\System\systime.c
+lorawan_4.6_l151\systime.o: D:\applications\keil\ARM\ARMCC\Bin\..\include\stdio.h
+lorawan_4.6_l151\systime.o: ../Middlewares/Third_Party/LoRaWAN/Target/rtc-board.h
+lorawan_4.6_l151\systime.o: D:\applications\keil\ARM\ARMCC\Bin\..\include\stdint.h
+lorawan_4.6_l151\systime.o: D:\applications\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+lorawan_4.6_l151\systime.o: ../Middlewares/Third_Party/LoRaWAN/System/timer.h
+lorawan_4.6_l151\systime.o: D:\applications\keil\ARM\ARMCC\Bin\..\include\stddef.h
+lorawan_4.6_l151\systime.o: ..\Middlewares\Third_Party\LoRaWAN\System\systime.h
+lorawan_4.6_l151\systime.o: D:\applications\keil\ARM\ARMCC\Bin\..\include\time.h
